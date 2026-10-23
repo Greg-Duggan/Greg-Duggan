@@ -7,4 +7,5 @@ Finance MBA (University of Scranton) who builds AI agents and data tools for bus
 - **Tools:** Python · SQL · R · Claude · GitHub · CRM APIs · Excel / Power Query · Tableau · Power BI
 
 📫 [LinkedIn](https://www.linkedin.com/in/gregory-duggan/) · gregoryduggan1@gmail.com
+
 **Interests:** movies, food, reading, finance, and real estate.
